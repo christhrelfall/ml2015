@@ -29,7 +29,7 @@ include('includes/header.php');
 
 <section class="container px2 py3">
   <div class="clearfix mxn2"> 
-	<?php for($x = 0; $x < 3; $x++): ?>
+	<?php for($x = 0; $x < 9; $x++): ?>
     <div class="sm-col sm-col-4 px2">
       <h2 class="h1 mb0">Bacon</h2>
       <p>Bacon ipsum dolor sit amet chuck prosciutto landjaeger ham hock filet mignon shoulder hamburger pig venison. Ham bacon corned beef, sausage kielbasa flank tongue pig drumstick capicola swine short loin ham hock kevin.</p>
